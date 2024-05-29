@@ -6,6 +6,8 @@ on:
       - main
     paths:  # Only rebuild site if relevant components change.
       - '**.rst'
+      - '**.yaml'
+      - '**.yml'
 
 jobs:
   build:
