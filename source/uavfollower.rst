@@ -98,6 +98,7 @@ One habit I've picked up in both this project, as well as the :doc:`Tennis Ball 
 One moment I'm most proud of that I couldn't discuss in the thesis due to lack of relevance is that I was able to identify and rectify the source of a 14 second display lag in the video stream, reducing it down to ~2 seconds. Among others, this was a great victory that kept the project viable.
 I grew a lot as a roboticist, writer, programmer, and project manager in the course of this thesis, and I look forward to further progress in the future.
 
+.. rubric:: Footnotes
 
 .. [#yolo] YOLOv5 ships natively with the JetHexa platform, making it an easy choice.
 

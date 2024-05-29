@@ -42,4 +42,6 @@ This project is also the ancestor to my :doc:`Master's Thesis <uavfollower>`, an
 
     The basic communication structure of the tennis ball detection program.
 
+.. rubric:: Footnotes
+
 .. [#kmeans_repo] This project was the birth of what eventually became my first Python package, `kmeans <https://github.com/tjdwill/kmeans>`_. 
