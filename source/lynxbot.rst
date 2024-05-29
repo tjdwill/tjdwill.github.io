@@ -13,7 +13,7 @@ Lynxbot: A Color-controlled 3DoF Robot Manipulator
 
 **Reports**: Download the :download:`concatenated reports <_static/pdfs/lynxbot_reports.pdf>`.
 
-**Code** [disclaimer]_ : View the project repository `on GitHub <https://github.com/tjdwill/
+**Code** [#disclaimer]_ : View the project repository `on GitHub <https://github.com/tjdwill/
 Lynxbot>`_.
 
 **Robot(s) Used**:
@@ -34,4 +34,4 @@ My first robotics project, the purpose of this work was to assemble the Lynxmoti
 
 .. rubric:: Footnotes
 
-.. [disclaimer] Disclaimer: I have made considerable improvements in programming ability since this project 🙂.
+.. [#disclaimer] Disclaimer: I have made considerable improvements in programming ability since this project 🙂.
